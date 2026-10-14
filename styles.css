@@ -868,6 +868,7 @@ body.dialog-open { overflow:hidden; }
 .floating-contact {
   display:grid;
   place-items:center;
+  color:#fff;
   width:56px;
   height:56px;
   overflow:hidden;
@@ -877,5 +878,21 @@ body.dialog-open { overflow:hidden; }
   box-shadow:0 8px 22px rgb(18 82 42 / 28%);
 }
 .floating-contact img { display:none; }
-.floating-contact .floating-contact-icon { width:31px; height:31px; fill:#fff; }
+.floating-contact .floating-contact-icon { display:block; flex:none; width:32px; height:32px; fill:#fff; }
 .floating-contact:focus-visible { outline:3px solid #128c7e; outline-offset:4px; }
+@media (max-width:767px) {
+  .floating-contact {
+    z-index:60;
+    right:calc(16px + env(safe-area-inset-right, 0px));
+    bottom:calc(16px + env(safe-area-inset-bottom, 0px));
+  }
+  .header-contact { min-height:44px; }
+  .hero-image-button { min-width:44px; min-height:44px; }
+  .contact-channels a { min-height:44px; }
+  .search-field select { min-height:44px; }
+}
+@media (max-width:400px) {
+  .property-specs, .editorial-grid .property-specs { flex-wrap:wrap; white-space:normal; }
+  .hero-actions { grid-template-columns:minmax(0,1fr); }
+  .hero-owner-link { grid-column:1; }
+}

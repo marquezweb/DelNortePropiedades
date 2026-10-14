@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T20:36:34.662Z",
-  "totalBytes": 13649940,
+  "generatedAt": "2026-10-14T22:09:23.867Z",
+  "totalBytes": 13657207,
   "files": [
     {
       "path": ".gitignore",
@@ -252,7 +252,7 @@
     },
     {
       "path": "catalogo.html",
-      "bytes": 12683
+      "bytes": 13846
     },
     {
       "path": "data/developments.js",
@@ -268,7 +268,7 @@
     },
     {
       "path": "desarrollos.html",
-      "bytes": 5011
+      "bytes": 6174
     },
     {
       "path": "developments.js",
@@ -484,7 +484,7 @@
     },
     {
       "path": "index.html",
-      "bytes": 15807
+      "bytes": 16970
     },
     {
       "path": "package.json",
@@ -500,15 +500,15 @@
     },
     {
       "path": "servicios.html",
-      "bytes": 7241
+      "bytes": 8404
     },
     {
       "path": "site.js",
-      "bytes": 9985
+      "bytes": 10160
     },
     {
       "path": "styles.css",
-      "bytes": 72715
+      "bytes": 75155
     }
   ]
 }
