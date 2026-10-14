@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T22:09:23.867Z",
-  "totalBytes": 13657207,
+  "generatedAt": "2026-10-14T22:28:19.000Z",
+  "totalBytes": 13661701,
   "files": [
     {
       "path": ".gitignore",
@@ -252,7 +252,7 @@
     },
     {
       "path": "catalogo.html",
-      "bytes": 13846
+      "bytes": 15581
     },
     {
       "path": "data/developments.js",
@@ -484,7 +484,7 @@
     },
     {
       "path": "index.html",
-      "bytes": 16970
+      "bytes": 18705
     },
     {
       "path": "package.json",
@@ -508,7 +508,7 @@
     },
     {
       "path": "styles.css",
-      "bytes": 75155
+      "bytes": 76179
     }
   ]
 }
