@@ -1,0 +1,514 @@
+{
+  "generatedAt": "2026-10-14T20:36:34.662Z",
+  "totalBytes": 13649940,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 52
+    },
+    {
+      "path": "README.md",
+      "bytes": 1324
+    },
+    {
+      "path": "app.js",
+      "bytes": 11372
+    },
+    {
+      "path": "assets/logo.jpg",
+      "bytes": 3601
+    },
+    {
+      "path": "assets/oficina-1440.webp",
+      "bytes": 314424
+    },
+    {
+      "path": "assets/oficina-768.webp",
+      "bytes": 92750
+    },
+    {
+      "path": "assets/oficina-cartel-1440.webp",
+      "bytes": 231090
+    },
+    {
+      "path": "assets/oficina-cartel-768.webp",
+      "bytes": 71198
+    },
+    {
+      "path": "assets/oficina-frente-1440.webp",
+      "bytes": 209228
+    },
+    {
+      "path": "assets/oficina-frente-768.webp",
+      "bytes": 64496
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DYAMViQgJsY_0-1280.webp",
+      "bytes": 286700
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DYAMViQgJsY_0-160.webp",
+      "bytes": 7242
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DYAMViQgJsY_0-640.webp",
+      "bytes": 88920
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DYAMViQgJsY_1-160.webp",
+      "bytes": 4050
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DYAMViQgJsY_2-160.webp",
+      "bytes": 5698
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DYAMViQgJsY_3-160.webp",
+      "bytes": 4166
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DYAMViQgJsY_4-160.webp",
+      "bytes": 4468
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DYAMViQgJsY_5-160.webp",
+      "bytes": 3784
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DYAMViQgJsY_6-160.webp",
+      "bytes": 5004
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DYAMViQgJsY_7-160.webp",
+      "bytes": 5210
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DYAMViQgJsY_8-160.webp",
+      "bytes": 4484
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DYAMViQgJsY_9-160.webp",
+      "bytes": 5550
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DczHePGmjeT_0-1280.webp",
+      "bytes": 263596
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DczHePGmjeT_0-160.webp",
+      "bytes": 8996
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DczHePGmjeT_0-640.webp",
+      "bytes": 103286
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DczHePGmjeT_1-160.webp",
+      "bytes": 3958
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DczHePGmjeT_2-160.webp",
+      "bytes": 3496
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DczHePGmjeT_3-160.webp",
+      "bytes": 4808
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DczHePGmjeT_4-160.webp",
+      "bytes": 2860
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DczHePGmjeT_5-160.webp",
+      "bytes": 3492
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DczHePGmjeT_6-160.webp",
+      "bytes": 5050
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DczHePGmjeT_7-160.webp",
+      "bytes": 4208
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DdXRi7gGlfa_0-1280.webp",
+      "bytes": 199384
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DdXRi7gGlfa_0-160.webp",
+      "bytes": 9772
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DdXRi7gGlfa_0-640.webp",
+      "bytes": 82748
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DdXRi7gGlfa_1-160.webp",
+      "bytes": 4884
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DdXRi7gGlfa_2-160.webp",
+      "bytes": 6266
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DdXRi7gGlfa_3-160.webp",
+      "bytes": 2504
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DdXRi7gGlfa_4-160.webp",
+      "bytes": 3836
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DdXRi7gGlfa_5-160.webp",
+      "bytes": 3846
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DdXRi7gGlfa_6-160.webp",
+      "bytes": 6284
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DdXRi7gGlfa_7-160.webp",
+      "bytes": 7390
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_0-1280.webp",
+      "bytes": 180722
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_0-160.webp",
+      "bytes": 11122
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_0-640.webp",
+      "bytes": 81416
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_1-160.webp",
+      "bytes": 4064
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_10-160.webp",
+      "bytes": 4842
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_11-160.webp",
+      "bytes": 6688
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_12-160.webp",
+      "bytes": 6314
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_13-160.webp",
+      "bytes": 4050
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_14-160.webp",
+      "bytes": 4358
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_15-160.webp",
+      "bytes": 5532
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_2-160.webp",
+      "bytes": 4466
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_3-160.webp",
+      "bytes": 6062
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_4-160.webp",
+      "bytes": 7116
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_5-160.webp",
+      "bytes": 6252
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_6-160.webp",
+      "bytes": 5020
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_7-160.webp",
+      "bytes": 5786
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_8-160.webp",
+      "bytes": 4896
+    },
+    {
+      "path": "assets/properties/delnorte.propiedades_DeaME7gGqCx_9-160.webp",
+      "bytes": 5054
+    },
+    {
+      "path": "assets/tailwind.config.js",
+      "bytes": 3944
+    },
+    {
+      "path": "assets/whatsapp-icon.jpg",
+      "bytes": 7965
+    },
+    {
+      "path": "catalogo.html",
+      "bytes": 12683
+    },
+    {
+      "path": "data/developments.js",
+      "bytes": 3119
+    },
+    {
+      "path": "data/featured.js",
+      "bytes": 163
+    },
+    {
+      "path": "data/properties.js",
+      "bytes": 9754
+    },
+    {
+      "path": "desarrollos.html",
+      "bytes": 5011
+    },
+    {
+      "path": "developments.js",
+      "bytes": 11161
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-05-06_DYAMViQgJsY/delnorte.propiedades_DYAMViQgJsY_0.jpg",
+      "bytes": 350989
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-05-06_DYAMViQgJsY/delnorte.propiedades_DYAMViQgJsY_1.jpg",
+      "bytes": 147668
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-05-06_DYAMViQgJsY/delnorte.propiedades_DYAMViQgJsY_2.jpg",
+      "bytes": 178952
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-05-06_DYAMViQgJsY/delnorte.propiedades_DYAMViQgJsY_3.jpg",
+      "bytes": 135760
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-05-06_DYAMViQgJsY/delnorte.propiedades_DYAMViQgJsY_4.jpg",
+      "bytes": 141823
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-05-06_DYAMViQgJsY/delnorte.propiedades_DYAMViQgJsY_5.jpg",
+      "bytes": 126212
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-05-06_DYAMViQgJsY/delnorte.propiedades_DYAMViQgJsY_6.jpg",
+      "bytes": 153123
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-05-06_DYAMViQgJsY/delnorte.propiedades_DYAMViQgJsY_7.jpg",
+      "bytes": 154741
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-05-06_DYAMViQgJsY/delnorte.propiedades_DYAMViQgJsY_8.jpg",
+      "bytes": 158407
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-05-06_DYAMViQgJsY/delnorte.propiedades_DYAMViQgJsY_9.jpg",
+      "bytes": 254609
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-08-18_DcMiHEUml8T/delnorte.propiedades_DcMiHEUml8T_0.jpg",
+      "bytes": 244026
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-08-18_DcMiHEUml8T/delnorte.propiedades_DcMiHEUml8T_1.jpg",
+      "bytes": 293246
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-08-18_DcMiHEUml8T/delnorte.propiedades_DcMiHEUml8T_2.jpg",
+      "bytes": 311086
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-08-18_DcMiHEUml8T/delnorte.propiedades_DcMiHEUml8T_3.jpg",
+      "bytes": 225556
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-08-18_DcMiHEUml8T/delnorte.propiedades_DcMiHEUml8T_4.jpg",
+      "bytes": 317531
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-08-26_Dcg-Q_-GvEr/delnorte.propiedades_Dcg-Q_-GvEr_0.jpg",
+      "bytes": 274990
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-08-26_Dcg-Q_-GvEr/delnorte.propiedades_Dcg-Q_-GvEr_1.jpg",
+      "bytes": 220814
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-08-26_Dcg-Q_-GvEr/delnorte.propiedades_Dcg-Q_-GvEr_2.jpg",
+      "bytes": 309207
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-08-26_Dcg-Q_-GvEr/delnorte.propiedades_Dcg-Q_-GvEr_3.jpg",
+      "bytes": 250337
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-08-26_Dcg-Q_-GvEr/delnorte.propiedades_Dcg-Q_-GvEr_4.jpg",
+      "bytes": 240617
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-02_DczHePGmjeT/delnorte.propiedades_DczHePGmjeT_0.jpg",
+      "bytes": 301633
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-02_DczHePGmjeT/delnorte.propiedades_DczHePGmjeT_1.jpg",
+      "bytes": 113261
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-02_DczHePGmjeT/delnorte.propiedades_DczHePGmjeT_2.jpg",
+      "bytes": 103337
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-02_DczHePGmjeT/delnorte.propiedades_DczHePGmjeT_3.jpg",
+      "bytes": 120770
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-02_DczHePGmjeT/delnorte.propiedades_DczHePGmjeT_4.jpg",
+      "bytes": 75061
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-02_DczHePGmjeT/delnorte.propiedades_DczHePGmjeT_5.jpg",
+      "bytes": 111621
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-02_DczHePGmjeT/delnorte.propiedades_DczHePGmjeT_6.jpg",
+      "bytes": 163037
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-02_DczHePGmjeT/delnorte.propiedades_DczHePGmjeT_7.jpg",
+      "bytes": 136340
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-16_DdXRi7gGlfa/delnorte.propiedades_DdXRi7gGlfa_0.jpg",
+      "bytes": 263250
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-16_DdXRi7gGlfa/delnorte.propiedades_DdXRi7gGlfa_1.jpg",
+      "bytes": 193723
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-16_DdXRi7gGlfa/delnorte.propiedades_DdXRi7gGlfa_2.jpg",
+      "bytes": 261059
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-16_DdXRi7gGlfa/delnorte.propiedades_DdXRi7gGlfa_3.jpg",
+      "bytes": 106867
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-16_DdXRi7gGlfa/delnorte.propiedades_DdXRi7gGlfa_4.jpg",
+      "bytes": 162255
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-16_DdXRi7gGlfa/delnorte.propiedades_DdXRi7gGlfa_5.jpg",
+      "bytes": 175190
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-16_DdXRi7gGlfa/delnorte.propiedades_DdXRi7gGlfa_6.jpg",
+      "bytes": 233654
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-09-16_DdXRi7gGlfa/delnorte.propiedades_DdXRi7gGlfa_7.jpg",
+      "bytes": 296391
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_0.jpg",
+      "bytes": 268478
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_1.jpg",
+      "bytes": 138158
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_10.jpg",
+      "bytes": 196515
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_11.jpg",
+      "bytes": 301091
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_12.jpg",
+      "bytes": 262970
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_13.jpg",
+      "bytes": 179132
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_14.jpg",
+      "bytes": 201046
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_15.jpg",
+      "bytes": 220887
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_2.jpg",
+      "bytes": 130323
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_3.jpg",
+      "bytes": 271080
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_4.jpg",
+      "bytes": 321164
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_5.jpg",
+      "bytes": 332176
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_6.jpg",
+      "bytes": 205237
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_7.jpg",
+      "bytes": 222941
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_8.jpg",
+      "bytes": 208252
+    },
+    {
+      "path": "imagenes/delnorte.propiedades/2026-10-12_DeaME7gGqCx/delnorte.propiedades_DeaME7gGqCx_9.jpg",
+      "bytes": 211871
+    },
+    {
+      "path": "index.html",
+      "bytes": 15807
+    },
+    {
+      "path": "package.json",
+      "bytes": 235
+    },
+    {
+      "path": "scripts/check.mjs",
+      "bytes": 731
+    },
+    {
+      "path": "scripts/server.mjs",
+      "bytes": 1727
+    },
+    {
+      "path": "servicios.html",
+      "bytes": 7241
+    },
+    {
+      "path": "site.js",
+      "bytes": 9985
+    },
+    {
+      "path": "styles.css",
+      "bytes": 72715
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "del-norte-propiedades",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/server.mjs",
+    "start": "node scripts/server.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
